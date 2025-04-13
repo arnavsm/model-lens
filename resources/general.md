@@ -17,6 +17,7 @@
 This is a curated collection of resources for understanding and exploring mechanistic interpretability in AI, with a focus on transformer models and large language models.
 
 ## Tutorials
+- [Neel Nanda's Page for Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability) - Neel Nanda's Main Blog Page
 - [Concrete Steps to Get Started in Transformer Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability/getting-started) - Neel Nanda's blog
 - [Mechanistic Interpretability Quickstart Guide](https://www.neelnanda.io/mechanistic-interpretability/getting-started) - Neel Nanda's blog
 - [ARENA Mechanistic Interpretability Tutorials](https://arena-ch1-transformers.streamlit.app/) - by Callum McDougall

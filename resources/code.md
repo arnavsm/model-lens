@@ -2,8 +2,8 @@
 
 ## Libraries
 
-- **SAELens** - [github](https://github.com/jbloomAus/SAELens) - Training and analyzing sparse autoencoders on Language Models
-- **TransformerLens** - [github](https://github.com/neelnanda-io/TransformerLens) - A library for mechanistic interpretability of GPT-style language models
+- **SAELens** - [github](https://github.com/jbloomAus/SAELens) - [docs](https://jbloomaus.github.io/SAELens/) - Training and analyzing sparse autoencoders on Language Models
+- **TransformerLens** - [github](https://github.com/neelnanda-io/TransformerLens) - [docs](https://transformerlensorg.github.io/TransformerLens/) - A library for mechanistic interpretability of GPT-style language models
 - **CircuitsVis** - [github](https://github.com/alan-cooney/CircuitsVis) - Mechanistic Interpretability visualizations
 - **baukit** - [github](https://github.com/davidbau/baukit) - Contains methods for tracing and editing internal activations in a network
 - **transformer-debugger** - [github](https://github.com/openai/transformer-debugger) - Tool developed by OpenAI's Superalignment team for investigating behaviors of small language models using automated interpretability and sparse autoencoders
@@ -20,3 +20,9 @@
 
 - **Interpretability Starter Templates** - [github](https://github.com/apartresearch/interpretability-starter) - Templates and tools for interpretability research, including EasyTransformer
 - **Mechanistic Interpretability Projects** - [github](https://github.com/ayyucekizrak/Mechanistic-Interpretability) - Projects focused on understanding induction heads and QK circuits in transformer models
+
+## Tutorials
+
+- [Gemma Scope](https://colab.research.google.com/drive/17dQFYUYnuKnP6OwQPH9v_GSYUW5aj-Rp?ts=66a77041) - [HuggingFace Doc](https://huggingface.co/google/gemma-scope)
+- [SAELens](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Main_Demo.ipynb)
+- [TransformerLens](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Main_Demo.ipynb)
